@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d8b3cb0-0335-4991-9848-60609122d566" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/Icons/closeIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Icons/onlineIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Chat/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Chat/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/InfoBar/InfoBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/InfoBar/InfoBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Input/Input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Join/Join.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Join/Join.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Message/Message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Message/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Messages/Messages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Messages/Messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TextContainer/TextContainer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TextContainer/TextContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1ZUgA0XxdNqkS1vCtV8IGo2i2XF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vaidy\chat-app\client\src\Icons" />
+      <recent name="C:\Users\vaidy\chat-app\client\src\components\Join" />
+      <recent name="C:\Users\vaidy\chat-app\client\src\components\Chat" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8b3cb0-0335-4991-9848-60609122d566" name="Default Changelist" comment="" />
+      <created>1584898939330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584898939330</updated>
+      <workItem from="1584898940700" duration="2197000" />
+      <workItem from="1584901156419" duration="15800000" />
+      <workItem from="1585019091653" duration="15244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585027539142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585027539142" />
+  </component>
+</project>
